@@ -18,3 +18,7 @@ python 3.7, numpy, scipy, torch, sklearn
   
 ### 4. Open a terminal/powershell in the save directory as the "Model_predict.py" and run the following command line.
 <code> python3 Model_predict.py <test_filename.mat> <test_label_filename.mat> </code>
+
+
+## Check the source code and dataset?
+Please refer to the folder: Development. 
